@@ -5,7 +5,7 @@
 
 مجموعه‌ای از پروکسی‌های تلگرام که از چند منبع عمومی دریافت می‌شوند؛ با جست‌وجو، بررسی تقریبی اتصال و اتصال مستقیم به تلگرام.
 
-<p align="center"><a href="https://papybasic.github.io/PAProxy">مشاهده وب‌سایت TelProxy</a></p>
+<p align="center"><a href="https://papybasic.github.io/TelProxy">مشاهده وب‌سایت TelProxy</a></p>
 
 ## Features
 
